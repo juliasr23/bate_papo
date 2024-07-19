@@ -24,20 +24,23 @@
             </tr>
             <tr>
                 <td aling="right"><b>Cor:</b><br><input type="radio" name="radcor" value="blue"<font color="blue">Azul</font><br>
-             <input type="radio" name="radcor" value="green"<font color="blue">Verd</font><br>
-            <input type="radio" name="radcor" value="red"<font color="blue">Vermelho</font><br>
-            <input type="radio" name="radcor" value="yellow"<font color="blue">Amarelo</font></td><br>
+                    <input type="radio" name="radcor" value="green"><font color="green">Verd</font><br>
+                    <input type="radio" name="radcor" value="red"><font color="red">Vermelho</font><br>
+                    <input type="radio" name="radcor" value="yellow"><font color="yellow">Amarelo</font></td><br>
             </tr>
             <tr>
                 <td aling="right"><b>Avatar:</b></td>
-                <td><input type="radio" name="radavatar" value="avatar 1.jpg">
-                    <img src="imagens/avatar 1.jpe" width="20" height="20"/>
-                    <input type="radio" name="radavatar" value="avatar 2.jpg">
-                    <img src="imagens/avatar 2.jpe" width="20" height="20"/>
-                    <input type="radio" name="radavatar" value="avatar 3.jpg">
-                    <img src="imagens/avatar 3.jpe" width="20" height="20"/>
-                    <input type="radio" name="radavatar" value="avatar 4.jpg">
-                    <img src="imagens/avatar 4.jpe" width="20" height="20"/>
+                <td><input type="radio" name="radavatar" value="avatar1.jpg">
+                    <img src="imagens/avatar1.jpe" width="20" height="20">
+                    
+                    <input type="radio" name="radavatar" value="avatar2.jpg">
+                    <img src="imagens/avatar2.jpe" width="20" height="20">
+                    
+                    <input type="radio" name="radavatar" value="avatar3.jpg">
+                    <img src="imagens/avatar3.jpe" width="20" height="20">
+                    
+                    <input type="radio" name="radavatar" value="avatar4.jpg">
+                    <img src="imagens/avatar4.jpe" width="20" height="20">
                 </td>
             </tr>
             <tr>
